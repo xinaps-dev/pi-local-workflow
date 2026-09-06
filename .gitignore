@@ -1,0 +1,11 @@
+# System runtime state (created dynamically via /skill:wf-init)
+specs/
+
+# Test deliverables and temporary test sandboxes
+smoke_test/
+
+# Generated artifacts & logs
+.pi/generated-images/
+node_modules/
+*.log
+.DS_Store
